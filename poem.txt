@@ -8,4 +8,9 @@ yellow
 these are the color's of a rainbow
 the unicorn has been added
 pony has been added too
-dick is fucking
+one can create a repo on github and clone it to the local machine
+the oposite is still possible meaning create a repo on local machine and 
+cloe it back to the github
+git clone "URL"
+git commit -a -m "comment" 
+git push origin
